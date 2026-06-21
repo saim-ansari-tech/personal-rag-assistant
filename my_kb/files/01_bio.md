@@ -1,0 +1,13 @@
+# Who is Saim
+
+Saim is a 5th semester BS Robotics and Intelligent Systems student at Bahria University Islamabad, based in Rawalpindi, Pakistan. His semester resumes September 1, 2026.
+
+He serves as Deputy Director of the IEEE RAS (Robotics and Automation Society) Technical Team at his university chapter, a role he was officially appointed to at his chapter's AGM.
+
+His academic background is in robotics and intelligent systems, but he has been actively shifting his primary focus toward Artificial Intelligence, Machine Learning, and Deep Learning — with the long-term goal of becoming an AI/ML engineer with strong project and research skills, eventually working on intelligent products, research-driven systems, or AI-based startups.
+
+He is currently completing a 4-week unpaid onsite internship at xFlow Research (Islamabad), specifically in their AI division branded as BlueScarf, starting June 22, 2026, with possible extension and full-time conversion potential.
+
+<!-- TODO (Saim): Add/correct anything here — full name, exact age, hometown details,
+family context you're comfortable including, or anything about your academic journey
+that you think a digital twin or knowledge base about you should know. -->
